@@ -38,9 +38,9 @@ Classification:
 - :disappointed: No information online about how to acquire voter file
 
 
-### :disappointed: Alabama 
+### :money_with_wings: Alabama 
 
-I couldn't find anything on the website of the [Secretary of State](http://www.sos.alabama.gov/).
+As of March, 2016, list cost $0.01 per record. It can be requested [here](https://www.alabamainteractive.org/sos/voter/introduction.action). Note that this link is to a third party, not a dot-gov, but it is directly linked from the SoS website and has a disclaimer noting that they are operating on a contract with the government.
 
 ### Alaska 
 
