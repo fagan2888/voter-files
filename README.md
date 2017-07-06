@@ -89,7 +89,7 @@ Pricing and request information available [here](https://www.elections.il.gov/vo
 
 Request form [here](https://sos.iowa.gov/elections/pdf/voterlistrequest.pdf), cost is $10 plus $0.50 per 1000 records. Can be delivered by email or CD as a CSV.
 
-### Kansas 
+### :money_with_wings: Kansas 
 
 Request form [here](http://www.kssos.org/forms/Elections/CVR.pdf), cost is $200, delivered on CD.
 
