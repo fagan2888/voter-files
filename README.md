@@ -80,7 +80,10 @@ Voter history files are freely available [here](http://elections.sos.ga.gov/Elec
 
 ### Hawaii 
 ### Idaho 
-### Illinois 
+### :money_with_wings: Illinois
+
+Pricing and request information available [here](https://www.elections.il.gov/votinginformation/computerizedvoterdata.aspx), comes on CD or DVD, whole state costs $500.
+
 ### Indiana 
 ### Iowa 
 ### Kansas 
