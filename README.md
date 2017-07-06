@@ -85,8 +85,14 @@ Voter history files are freely available [here](http://elections.sos.ga.gov/Elec
 Pricing and request information available [here](https://www.elections.il.gov/votinginformation/computerizedvoterdata.aspx), comes on CD or DVD, whole state costs $500.
 
 ### Indiana 
-### Iowa 
+### :money_with_wings: Iowa 
+
+Request form [here](https://sos.iowa.gov/elections/pdf/voterlistrequest.pdf), cost is $10 plus $0.50 per 1000 records. Can be delivered by email or CD as a CSV.
+
 ### Kansas 
+
+Request form [here](http://www.kssos.org/forms/Elections/CVR.pdf), cost is $200, delivered on CD.
+
 ### Kentucky 
 
 I also found [this github repo](https://github.com/courierjournal/kentucky-voterdb-parser) with python scripts to parse these files.
